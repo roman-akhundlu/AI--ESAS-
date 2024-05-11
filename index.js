@@ -18,6 +18,11 @@
           slidesPerView: 5,
           spaceBetween: 50,
         },
+
+        1280: {
+          slidesPerView: 4,
+          spaceBetween: 50,
+        }
       }
     });
 
