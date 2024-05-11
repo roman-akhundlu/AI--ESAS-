@@ -502,3 +502,65 @@
     margin-left: 1210px;
     margin-top: -120px;
   }
+
+
+
+  @media(min-width:320px) {
+     .signin img {
+      margin-left: -1230px;
+      margin-top: 10px;
+     }
+     .future h1 {
+margin-left: 10px;
+margin-top: 80px;
+     }
+
+     .future h2 {
+      margin-left: 10px;
+margin-top: 30px;
+     }
+
+     .future p {
+      margin-top: 20px;
+      margin-left: 10px;
+
+    }
+
+    .future .login img {
+      margin-left: -210px;
+      margin-top: 90px;
+    }
+
+    .future .playlist img {
+      margin-left: -20px;
+      margin-top: -240px;
+    }
+
+    .future .monitor img {
+      margin-left: -1110px;
+      margin-top: 600px;
+    }
+
+
+
+    .mind .join img {
+      font-size: 20px;
+      margin-left: -320px;
+      margin-top: 20px;
+    }
+
+    .mind h1 {
+      margin-left: 40px;
+      margin-top: 100px;
+    }
+
+    .mind p {
+      margin-left: 40px;
+      margin-top: 50px;
+    }
+
+    .mind .lesson img {
+      margin-left: -1050px;
+      margin-top: -10px;
+    }
+  }
