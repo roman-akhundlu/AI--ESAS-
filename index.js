@@ -54,3 +54,21 @@
         },
       }
     });
+
+
+
+
+    const overlay = document.querySelector(".overlay-menu")
+  const nav = document.querySelector(".navbar-toggler-icon")
+const block = document.querySelector(".bi-x-circle")
+
+  nav.addEventListener("click", menuopen)
+  block.addEventListener("click", menuclose)
+
+  function menuopen() {
+    overlay.classList.add("aktiv")
+  }
+
+  function menuclose() {
+    overlay.classList.remove("aktiv")
+  }
